@@ -1,0 +1,52 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 10.18.13.6191]
+    Renderer: NVIDIA Quadro K5000
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Default GameObject Tag: Wall already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\adam.cholewinski\Desktop\New folder\romeo-1\FixedRomeo\TempBuildForTesting_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.622202 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.614505 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 1.167842 ms (FindLiveObjects: 0.036616 ms CreateObjectMapping: 0.035506 ms MarkObjects: 0.333709 ms  DeleteObjects: 0.760900 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.532602 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 386)
+
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1101.
+Total: 0.921791 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.023023 ms MarkObjects: 0.243000 ms  DeleteObjects: 0.614435 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2908 -> priority: 1 
+  Thread -> id: 243c -> priority: 1 
